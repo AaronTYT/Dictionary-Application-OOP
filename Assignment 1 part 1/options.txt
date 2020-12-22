@@ -1,0 +1,11 @@
+A
+You enter any word and then I will display the definition and type word.
+
+B
+I will find all the words that has more then 3 z's in a dictionary.
+
+C
+I will find all the words that has the letter q and does not have a letter u after q.
+
+D
+To exit this program.
